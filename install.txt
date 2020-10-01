@@ -1,0 +1,16 @@
+=== CoinPayments.net Cryptocurrency Support for Easy Digital Downloads ===
+Contributors: CoinPayments, woothemes, mikejolley, jameskoster, CoenJacobs
+Tags: bitcoin, litecoin, altcoins, altcoin, dogecoin, feathercoin, netcoin, peercoin, blackcoin, darkcoin, ripple, ethereum, ether, woocommerce
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+== Description ==
+
+This plugin implements cryptocurrency support for Easy Digital Downloads.
+== Installation ==
+
+1. Upload files to the `/wp-content/plugins/easy-digital-downloads-coinpayments-currencies` directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+3. Go to Easy Digital Downloads Settings page on General tab go to "Currency" section tab.
+4. Select any cryptocurrency from Coinpayments.NET list.
+5. Click "Save changes".

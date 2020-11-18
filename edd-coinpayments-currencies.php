@@ -84,6 +84,7 @@ if (!class_exists('EDD_CoinPayments_Currencies')) {
         {
             add_filter('edd_currencies', array($this, 'coinpayments_extra_edd_currencies'));
             add_filter('edd_format_amount_decimals', array($this, 'coinpayments_edd_currency_decimal_filter'));
+            add_filter('edd_currency_decimal_count', array($this, 'coinpayments_edd_currency_decimal_filter'));
         }
     }
 }

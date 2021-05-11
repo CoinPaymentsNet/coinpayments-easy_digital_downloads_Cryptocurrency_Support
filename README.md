@@ -1,4 +1,4 @@
-# coinpayments-easy_digital_downloads_Cryptocurrency_SupportI
+# coinpayments-easy_digital_downloads_Cryptocurrency_Support
 MPORTANT NOTE:
 
 This is only for use with: https://alpha.coinpayments.net/

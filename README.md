@@ -1,4 +1,5 @@
-IMPORTANT NOTE:
+# coinpayments-easy_digital_downloads_Cryptocurrency_SupportI
+MPORTANT NOTE:
 
 This is only for use with: https://alpha.coinpayments.net/
 
@@ -8,4 +9,4 @@ Demonstration Website Disclaimer: The information presented on alpha.coinpayment
 
 In no event will CoinPayments Inc. or its directors, officers, employees, shareholders, service providers or agents, be liable to you, or anyone else, for any decision(s) made or action(s) taken in reliance upon the information contained in the Demo Site, nor for any direct, indirect, incidental, special, exemplary, punitive, consequential, or other damages whatsoever (including, but not limited to, liability for loss of use, funds, data or profits) whether in an action of contract, statute, tort or otherwise, relating to the use of the Demo Site."
 
-# coinpayments-easy_digital_downloads_Cryptocurrency_Support
+

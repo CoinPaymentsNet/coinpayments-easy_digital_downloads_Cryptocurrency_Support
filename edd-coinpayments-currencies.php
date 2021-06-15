@@ -58,8 +58,6 @@ if (!class_exists('EDD_CoinPayments_Currencies')) {
 
         function get_coin_currencies()
         {
-
-
             if (empty(wp_cache_get('coin_currencies'))) {
                 $this->includes();
                 $coinpayments = new Coinpayments_Currencies_API_Handler();

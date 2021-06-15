@@ -16,12 +16,15 @@ class Coinpayments_Currencies_API_Handler
      * @return mixed
      * @throws Exception
      */
-    public function get_coin_crypto_currencies()
+    public function get_coin_crypto_currencies($name = null)
     {
 
         $params = array(
             'types' => self::CRYPTO_TYPE,
         );
+        if($name)
+            $params['q'] = $name;
+
         $items = array();
 
         $listData = $this->get_coin_currencies($params);

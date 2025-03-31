@@ -1,4 +1,7 @@
 # coinpayments-easy_digital_downloads_Cryptocurrency_Support
+
+> NOTICE: Migrated to [CoinPaymentsNet/plugin-easy-digital-downloads](https://github.com/CoinPaymentsNet/plugin-easy-digital-downloads).
+
 MPORTANT NOTE:
 
 This is only for use with: https://alpha.coinpayments.net/
